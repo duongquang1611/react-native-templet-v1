@@ -137,6 +137,9 @@ Run app iOS debug in simulator
 
 ### Android
 
+**Reference** See full setup <br>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/295bzuj02BI)](https://youtu.be/295bzuj02BI)
+
 1. Edit the android app version you want to push the app to Google Play in env file: `env.production`
    Includes 2 fields: The thought of each school can be read more here [Version App](https://developer.android.com/studio/publish/versioning)
 
@@ -196,10 +199,10 @@ Run app iOS debug in simulator
    - After Google reviews the app, if it is not rejected, you can publish the app to Google Play Store under `Publishing Overview` => Click `Publish Changes`
      ![Publish Changes](./assets/images/publish_changes.png)
 
-3. See more setup <br>
-   [![](https://markdown-videos-api.jorgenkh.no/youtube/295bzuj02BI)](https://youtu.be/295bzuj02BI)
-
 ### iOS
+
+**Reference** See full setup <br>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/fXeDe9tafG8)](https://youtu.be/fXeDe9tafG8)
 
 1. Create Apple Certificate, Provisioning in [Apple Developer](https://developer.apple.com/account) by [How to Create Apple Developer Certificate, Provisioning profiles and AppID's?](https://www.youtube.com/watch?v=oK1b-H6rh08)
    _No need to create AppId because the AppId com.pit-port is already created corresponding to the app PIT PORT_
@@ -235,6 +238,3 @@ Run app iOS debug in simulator
      [![](https://markdown-videos-api.jorgenkh.no/youtube/wHCSnosyVBg)](https://youtu.be/wHCSnosyVBg)
    - Click `Add for review` to Apple review new version app.
    - After Apple reviews the app, if it is not rejected, you can publish the app to **AppStore**.
-
-5. See more setup <br>
-   [![](https://markdown-videos-api.jorgenkh.no/youtube/fXeDe9tafG8)](https://youtu.be/fXeDe9tafG8)
